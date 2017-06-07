@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name            = 'ddns-updater',
-    version         = '1.1',
+    version         = '1.2.jpiron',
     description     = 'DDNS client to update your dynamic IP address',
     author          = 'Philipp Meisberger',
     author_email    = 'team@pm-codeworks.de',
