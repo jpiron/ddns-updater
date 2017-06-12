@@ -28,7 +28,7 @@ import sys
 import configparser
 import argparse
 
-VERSION = '1.2.jpiron'
+VERSION = '1.3.jpiron'
 
 class ddnsUpdater(object):
     """
